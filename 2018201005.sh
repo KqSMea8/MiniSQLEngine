@@ -1,0 +1,1 @@
+python run.py "select distinct A,B from table1"
