@@ -1,1 +1,1 @@
-python run.py "select distinct A,B from table1"
+python run.py "select * from table1"
