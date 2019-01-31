@@ -1,1 +1,1 @@
-python run.py "select * from table1"
+python run.py "$1"
